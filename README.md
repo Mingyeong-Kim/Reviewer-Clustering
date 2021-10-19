@@ -1,7 +1,7 @@
-# A Study on Market Segmentation Based on E-Commerce User Reviews 
+# A Research on Market Segmentation Based on E-Commerce User Reviews Using Clustering Algorithm
 
 - **연구 기간: 2020.09 - 2021.12(1년 6개월, 팀)**
-- **연구 개요: 머신러닝 클러스터링 기법을 활용한 이커머스 사용자 리뷰에 따른 시장 세분화 연구**
+- **연구 개요: 머신러닝 클러스터링 기법을 활용한 이커머스 사용자 리뷰에 따른 시장 세분화 연구(졸업연구)**
 - **사용기술: python(pycharm), selenium, Scikit-learn, pandas, numpy**
 - **역할: 팀장, 데이터 수집(크롤링), 데이터 전처리, 모델 결과 분석**
 
